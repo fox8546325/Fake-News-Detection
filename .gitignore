@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset
+data/*.csv
+
+# Trained models
+models/*.pkl
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
